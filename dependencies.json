@@ -1,0 +1,8 @@
+{
+  "production": {
+    "ms-parse": "http://github.com/structs/ms-parse/tarball/master"
+  },
+  "development": {
+    "jest": "http://github.com/jkroso/jest/tarball/0.0.2"
+  }
+}
